@@ -24,14 +24,12 @@ httpx==0.28.1
 idna==3.11
 jiter==0.13.0
 
-joblib
 mysql-connector-python==9.6.0
 
 numpy==2.4.4
-pandas
 openpyxl
 pillow==12.2.0
-scikit-learn
+
 
 pydantic==2.12.5
 python-dotenv==1.2.2
@@ -39,3 +37,10 @@ starlette==1.0.0
 
 typing-extensions==4.15.0
 typing-inspection==0.4.2
+
+
+pymongo==4.10.1
+scikit-learn==1.9.0
+pandas==3.0.5
+
+joblib==1.5.3
